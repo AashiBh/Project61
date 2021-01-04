@@ -1,0 +1,56 @@
+body{ 
+
+    background: linear-gradient(  #ff00b2 0%, #3f06ff 100%); 
+
+    color: azure; 
+
+    text-align: center; 
+
+    font-family: 'Langar', cursive; 
+
+} 
+
+  
+
+img{ 
+
+    border-radius: 50%; 
+
+    width: 400x; 
+
+} 
+
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+    font-family: 'Redressed', cursive;
+}
+
+li a:hover {
+  background-color: #111;
+    color:#EA80FF;
+}
+.Menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+#ECDW{
+    color: aliceblue;
+    font-family: 'Redressed', cursive;
+}
